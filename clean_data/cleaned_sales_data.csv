@@ -1,0 +1,823 @@
+order_date,segment,ship_mode,sales
+2013-01-15,Consumer,First Class,149.95
+2013-08-15,Consumer,First Class,243.60000000000002
+2013-12-24,Consumer,First Class,9.568000000000001
+2013-04-07,Consumer,First Class,8.96
+2013-05-19,Consumer,First Class,34.2
+2013-09-05,Consumer,First Class,31.983999999999998
+2013-08-12,Consumer,First Class,286.65000000000003
+2013-07-05,Consumer,First Class,514.0300000000001
+2013-04-30,Consumer,First Class,1000.95
+2013-03-23,Consumer,First Class,9.912
+2013-12-30,Consumer,First Class,39.128
+2014-04-18,Consumer,First Class,106.5
+2014-11-21,Consumer,First Class,18.176
+2014-12-23,Consumer,First Class,194.32
+2014-03-23,Consumer,First Class,59.480000000000004
+2014-10-30,Consumer,First Class,182.91
+2014-04-16,Consumer,First Class,2298.8999999999996
+2014-11-02,Consumer,First Class,197.72
+2014-11-30,Consumer,First Class,440.144
+2014-11-22,Consumer,First Class,32.985
+2014-12-11,Consumer,First Class,196.62
+2014-12-21,Consumer,First Class,47.976
+2015-12-10,Consumer,First Class,1056.86
+2015-07-25,Consumer,First Class,73.2
+2015-02-12,Consumer,First Class,1366.0400000000002
+2015-08-15,Consumer,First Class,15.552000000000003
+2015-06-05,Consumer,First Class,75.88
+2015-12-06,Consumer,First Class,191.82
+2015-08-14,Consumer,First Class,125.92000000000002
+2015-12-17,Consumer,First Class,34.944
+2015-06-15,Consumer,First Class,58.400000000000006
+2015-05-06,Consumer,First Class,79.14
+2015-05-31,Consumer,First Class,3.2820000000000005
+2015-06-10,Consumer,First Class,695.7
+2015-11-06,Consumer,First Class,1120.73
+2015-11-20,Consumer,First Class,18.48
+2015-05-02,Consumer,First Class,377.346
+2016-10-13,Consumer,First Class,1541.51
+2016-12-25,Consumer,First Class,141.0
+2016-12-18,Consumer,First Class,12.672
+2016-12-21,Consumer,First Class,71.0
+2016-05-01,Consumer,First Class,318.96
+2016-09-11,Consumer,First Class,34.504000000000005
+2016-11-11,Consumer,First Class,88.92000000000002
+2016-09-23,Consumer,First Class,251.64
+2016-11-20,Consumer,First Class,52.696000000000005
+2016-04-09,Consumer,First Class,284.19
+2016-02-07,Consumer,First Class,359.96999999999997
+2016-05-30,Consumer,First Class,253.85999999999999
+2016-04-15,Consumer,First Class,4.89
+2016-08-01,Consumer,First Class,271.96
+2016-01-15,Consumer,First Class,29.664
+2016-12-02,Consumer,First Class,701.96
+2016-06-20,Consumer,First Class,4.464
+2016-05-06,Consumer,First Class,54.66
+2016-12-19,Consumer,First Class,1665.62
+2016-12-10,Consumer,First Class,19.104
+2016-09-22,Consumer,First Class,726.9100000000001
+2016-10-09,Consumer,First Class,10.816
+2016-09-24,Consumer,First Class,79.0
+2013-06-23,Consumer,First Class,23.119999999999997
+2014-06-15,Consumer,First Class,11.672
+2015-04-09,Consumer,First Class,354.90000000000003
+2015-08-10,Consumer,First Class,645.136
+2015-10-23,Consumer,First Class,39.92
+2015-11-26,Consumer,First Class,59.98
+2015-07-30,Consumer,First Class,2.2140000000000004
+2015-03-27,Consumer,First Class,187.616
+2015-06-07,Consumer,First Class,678.8699999999999
+2016-12-02,Consumer,First Class,34.650000000000006
+2016-06-22,Consumer,First Class,37.608000000000004
+2016-10-13,Consumer,First Class,348.56
+2013-07-05,Corporate,First Class,242.54600000000002
+2013-03-19,Corporate,First Class,590.7620000000002
+2013-01-06,Corporate,First Class,12.78
+2013-05-05,Corporate,First Class,47.32
+2013-08-27,Corporate,First Class,1812.01
+2013-11-22,Corporate,First Class,9.96
+2013-02-06,Corporate,First Class,321.56
+2013-09-08,Corporate,First Class,116.85
+2013-10-20,Corporate,First Class,426.942
+2014-02-06,Corporate,First Class,176.63
+2014-06-11,Corporate,First Class,3165.744
+2014-08-13,Corporate,First Class,64.68
+2014-07-02,Corporate,First Class,246.36400000000003
+2014-11-14,Corporate,First Class,860.07
+2014-06-18,Corporate,First Class,670.001
+2014-11-30,Corporate,First Class,17.088
+2015-05-06,Corporate,First Class,14.352000000000002
+2015-06-13,Corporate,First Class,224.9
+2015-11-27,Corporate,First Class,3236.41
+2015-10-26,Corporate,First Class,783.9600000000002
+2015-08-27,Corporate,First Class,31.008
+2015-03-29,Corporate,First Class,31.4
+2016-01-03,Corporate,First Class,740.214
+2016-09-14,Corporate,First Class,1017.1360000000001
+2016-08-05,Corporate,First Class,13.76
+2016-04-16,Corporate,First Class,503.22
+2016-05-26,Corporate,First Class,234.2
+2016-07-03,Corporate,First Class,9.552
+2016-04-01,Corporate,First Class,127.94999999999999
+2016-05-09,Corporate,First Class,272.23199999999997
+2016-11-04,Corporate,First Class,1883.7240000000002
+2016-03-08,Corporate,First Class,668.5400000000001
+2016-05-18,Corporate,First Class,524.85
+2016-04-15,Corporate,First Class,15.570000000000004
+2014-12-05,Corporate,First Class,97.424
+2015-09-04,Corporate,First Class,87.28
+2015-02-01,Corporate,First Class,56.449999999999996
+2015-11-07,Corporate,First Class,368.432
+2016-07-15,Corporate,First Class,1065.8400000000001
+2016-08-27,Corporate,First Class,2.8960000000000004
+2013-10-13,Home Office,First Class,389.74
+2013-12-20,Home Office,First Class,2884.37
+2013-05-13,Home Office,First Class,405.456
+2015-07-26,Home Office,First Class,10.44
+2015-04-05,Home Office,First Class,177.78
+2015-09-17,Home Office,First Class,121.78
+2016-04-02,Home Office,First Class,771.8
+2016-04-25,Home Office,First Class,109.96799999999999
+2016-09-08,Home Office,First Class,220.056
+2016-10-30,Home Office,First Class,204.98000000000002
+2015-11-27,Home Office,First Class,3.7440000000000007
+2016-10-02,Home Office,First Class,2437.672
+2013-10-24,Consumer,Same Day,11.850000000000001
+2013-03-04,Consumer,Same Day,354.90000000000003
+2013-03-31,Consumer,Same Day,1142.1649999999997
+2013-07-28,Consumer,Same Day,193.152
+2013-10-08,Consumer,Same Day,23.472
+2013-06-30,Consumer,Same Day,310.688
+2014-03-22,Consumer,Same Day,598.352
+2014-05-31,Consumer,Same Day,10.272000000000002
+2014-10-23,Consumer,Same Day,78.456
+2015-07-15,Consumer,Same Day,29.0
+2015-05-21,Consumer,Same Day,1363.96
+2015-02-07,Consumer,Same Day,107.83
+2015-12-02,Consumer,Same Day,863.928
+2015-11-05,Consumer,Same Day,10.74
+2015-10-29,Consumer,Same Day,314.39300000000003
+2015-07-02,Consumer,Same Day,85.5
+2015-07-09,Consumer,Same Day,839.9440000000002
+2015-05-23,Consumer,Same Day,14.73
+2016-10-20,Consumer,Same Day,59.82400000000001
+2016-08-16,Consumer,Same Day,80.56400000000001
+2016-05-06,Consumer,Same Day,817.8290000000002
+2016-06-02,Consumer,Same Day,25.344
+2013-11-05,Consumer,Same Day,149.9
+2015-12-01,Consumer,Same Day,36.192
+2015-12-12,Consumer,Same Day,85.224
+2015-08-14,Consumer,Same Day,89.32000000000001
+2016-05-19,Consumer,Same Day,195.64
+2016-07-06,Consumer,Same Day,239.24
+2013-05-09,Corporate,Same Day,158.70999999999998
+2015-11-16,Corporate,Same Day,630.024
+2016-03-05,Corporate,Same Day,839.25
+2014-09-15,Corporate,Same Day,111.904
+2016-11-04,Corporate,Same Day,8167.419999999999
+2013-04-07,Home Office,Same Day,259.28999999999996
+2014-05-16,Home Office,Same Day,255.968
+2015-05-25,Home Office,Same Day,261.1
+2016-06-04,Home Office,Same Day,117.62
+2016-10-12,Home Office,Same Day,7.968000000000001
+2015-02-05,Home Office,Same Day,2075.51
+2013-12-16,Consumer,Second Class,129.44
+2013-08-27,Consumer,Second Class,13.36
+2013-01-13,Consumer,Second Class,545.9399999999999
+2013-01-21,Consumer,Second Class,25.248
+2013-08-06,Consumer,Second Class,62.91
+2013-12-19,Consumer,Second Class,1979.89
+2013-12-17,Consumer,Second Class,40.05
+2013-05-02,Consumer,Second Class,479.98400000000004
+2013-09-22,Consumer,Second Class,4.608
+2013-08-22,Consumer,Second Class,7.6320000000000014
+2013-06-09,Consumer,Second Class,1441.3
+2013-04-29,Consumer,Second Class,69.9
+2013-09-14,Consumer,Second Class,26.128
+2013-12-23,Consumer,Second Class,619.8480000000002
+2013-03-03,Consumer,Second Class,19.456000000000003
+2013-04-30,Consumer,Second Class,47.79
+2013-08-08,Consumer,Second Class,155.45600000000002
+2013-04-19,Consumer,Second Class,129.33
+2013-05-05,Consumer,Second Class,40.54
+2013-08-29,Consumer,Second Class,709.0425000000001
+2014-11-08,Consumer,Second Class,750.93
+2014-03-09,Consumer,Second Class,4.608
+2014-01-28,Consumer,Second Class,4297.644
+2014-09-14,Consumer,Second Class,269.49
+2014-03-16,Consumer,Second Class,498.93
+2014-03-29,Consumer,Second Class,5.56
+2014-03-01,Consumer,Second Class,58.72
+2014-12-06,Consumer,Second Class,173.94
+2014-12-04,Consumer,Second Class,1635.0180000000003
+2014-10-22,Consumer,Second Class,9.952
+2015-05-02,Consumer,Second Class,140.52
+2015-12-06,Consumer,Second Class,1284.8000000000002
+2015-03-19,Consumer,Second Class,871.8000000000001
+2015-10-02,Consumer,Second Class,36.364
+2015-10-28,Consumer,Second Class,290.98
+2015-09-28,Consumer,Second Class,31.830000000000002
+2015-11-15,Consumer,Second Class,513.52
+2015-09-06,Consumer,Second Class,228.58599999999998
+2015-12-24,Consumer,Second Class,859.14
+2015-06-30,Consumer,Second Class,191.88
+2015-05-16,Consumer,Second Class,7.764000000000001
+2015-09-05,Consumer,Second Class,131.104
+2015-09-24,Consumer,Second Class,487.21999999999997
+2015-11-09,Consumer,Second Class,993.8999999999999
+2015-08-16,Consumer,Second Class,225.29600000000002
+2015-08-14,Consumer,Second Class,21.504000000000005
+2015-02-02,Consumer,Second Class,8805.04
+2015-05-10,Consumer,Second Class,27.86
+2015-07-01,Consumer,Second Class,1302.83
+2015-04-15,Consumer,Second Class,81.19999999999999
+2015-05-30,Consumer,Second Class,1002.7
+2015-11-04,Consumer,Second Class,903.7700000000001
+2015-10-22,Consumer,Second Class,111.67200000000001
+2016-08-25,Consumer,Second Class,13.152000000000001
+2016-08-27,Consumer,Second Class,14.336000000000002
+2016-07-29,Consumer,Second Class,61.21600000000001
+2016-09-23,Consumer,Second Class,212.91000000000003
+2016-07-27,Consumer,Second Class,194.848
+2016-12-21,Consumer,Second Class,23.88
+2016-03-27,Consumer,Second Class,874.8
+2016-07-27,Consumer,Second Class,91.03200000000001
+2016-09-11,Consumer,Second Class,209.88
+2016-07-10,Consumer,Second Class,18.84
+2016-12-03,Consumer,Second Class,47.992000000000004
+2016-08-23,Consumer,Second Class,4590.344000000001
+2016-06-16,Consumer,Second Class,740.59
+2016-11-03,Consumer,Second Class,16.272000000000002
+2016-10-28,Consumer,Second Class,273.088
+2016-05-28,Consumer,Second Class,301.96
+2016-09-24,Consumer,Second Class,253.824
+2016-12-22,Consumer,Second Class,7.824
+2016-11-19,Consumer,Second Class,22.959999999999997
+2016-11-25,Consumer,Second Class,48.87
+2016-08-21,Consumer,Second Class,866.4
+2016-05-27,Consumer,Second Class,25.920000000000005
+2016-08-06,Consumer,Second Class,161.14000000000001
+2016-08-07,Consumer,Second Class,79.992
+2016-12-25,Consumer,Second Class,400.39
+2016-11-13,Consumer,Second Class,728.9680000000001
+2016-11-06,Consumer,Second Class,831.3680000000002
+2013-04-11,Consumer,Second Class,737.2
+2013-06-21,Consumer,Second Class,425.66999999999996
+2014-12-25,Consumer,Second Class,433.78
+2014-09-06,Consumer,Second Class,85.98
+2015-03-19,Consumer,Second Class,189.882
+2015-11-01,Consumer,Second Class,32.064
+2016-08-31,Consumer,Second Class,229.544
+2016-11-13,Consumer,Second Class,2.064
+2016-12-29,Consumer,Second Class,1814.6799999999998
+2016-02-18,Consumer,Second Class,29.160000000000004
+2016-12-09,Consumer,Second Class,1827.51
+2013-11-28,Corporate,Second Class,542.3399999999999
+2013-04-05,Corporate,Second Class,4251.919999999999
+2013-10-18,Corporate,Second Class,2216.8
+2013-03-11,Corporate,Second Class,782.6300000000001
+2013-08-24,Corporate,Second Class,25.5
+2013-11-04,Corporate,Second Class,66.61600000000001
+2013-12-13,Corporate,Second Class,12.39
+2013-12-16,Corporate,Second Class,1015.8160000000001
+2013-01-13,Corporate,Second Class,1287.26
+2013-11-12,Corporate,Second Class,7.872
+2014-12-31,Corporate,Second Class,596.48
+2014-05-25,Corporate,Second Class,467.03999999999996
+2014-07-05,Corporate,Second Class,12.158000000000003
+2014-12-14,Corporate,Second Class,3.76
+2014-09-18,Corporate,Second Class,717.1200000000001
+2014-09-07,Corporate,Second Class,140.736
+2014-08-07,Corporate,Second Class,520.03
+2014-05-15,Corporate,Second Class,17.94
+2014-10-04,Corporate,Second Class,392.93999999999994
+2014-01-13,Corporate,Second Class,9.82
+2015-01-24,Corporate,Second Class,31.36
+2015-12-19,Corporate,Second Class,1410.0660000000003
+2015-05-27,Corporate,Second Class,232.62400000000002
+2015-03-05,Corporate,Second Class,10.08
+2015-01-05,Corporate,Second Class,255.904
+2015-12-02,Corporate,Second Class,2145.2499999999995
+2015-07-17,Corporate,Second Class,199.18
+2015-11-05,Corporate,Second Class,1106.9240000000002
+2015-03-21,Corporate,Second Class,86.45
+2015-11-29,Corporate,Second Class,2673.69
+2016-11-03,Corporate,Second Class,26.400000000000002
+2016-11-18,Corporate,Second Class,552.856
+2016-04-10,Corporate,Second Class,16.739000000000004
+2016-10-02,Corporate,Second Class,10.16
+2016-02-20,Corporate,Second Class,1245.86
+2016-11-24,Corporate,Second Class,406.93999999999994
+2016-03-31,Corporate,Second Class,3098.6099999999997
+2016-04-01,Corporate,Second Class,269.40000000000003
+2016-01-27,Corporate,Second Class,22.63
+2016-11-02,Corporate,Second Class,3291.0699999999997
+2016-05-19,Corporate,Second Class,342.23999999999995
+2016-11-03,Corporate,Second Class,15.991999999999999
+2016-11-24,Corporate,Second Class,19.008000000000003
+2016-11-11,Corporate,Second Class,1158.12
+2014-07-13,Corporate,Second Class,38.88
+2014-07-17,Corporate,Second Class,231.92000000000002
+2015-11-19,Corporate,Second Class,1319.96
+2015-12-10,Corporate,Second Class,82.91999999999999
+2016-11-25,Corporate,Second Class,701.96
+2016-12-23,Corporate,Second Class,1152.8700000000001
+2013-03-16,Home Office,Second Class,471.92
+2013-11-19,Home Office,Second Class,682.91
+2014-09-19,Home Office,Second Class,61.96
+2014-09-06,Home Office,Second Class,3.444000000000001
+2014-09-22,Home Office,Second Class,80.38
+2014-11-30,Home Office,Second Class,89.36
+2014-03-29,Home Office,Second Class,1166.92
+2015-02-08,Home Office,Second Class,1127.976
+2015-04-02,Home Office,Second Class,7.04
+2015-06-17,Home Office,Second Class,91.475
+2015-04-18,Home Office,Second Class,55.416000000000004
+2015-09-11,Home Office,Second Class,67.56
+2016-12-25,Home Office,Second Class,819.28
+2016-09-16,Home Office,Second Class,18.0
+2016-11-10,Home Office,Second Class,11.520000000000001
+2016-12-10,Home Office,Second Class,684.7800000000001
+2016-09-17,Home Office,Second Class,830.24
+2016-08-11,Home Office,Second Class,477.51
+2014-05-26,Home Office,Second Class,352.168
+2015-12-30,Home Office,Second Class,62.752
+2015-12-25,Home Office,Second Class,823.6100000000001
+2016-11-30,Home Office,Second Class,71.976
+2016-03-31,Home Office,Second Class,732.93
+2013-06-02,Consumer,Standard Class,605.47
+2013-06-27,Consumer,Standard Class,616.14
+2013-12-12,Consumer,Standard Class,23.472
+2013-04-25,Consumer,Standard Class,302.376
+2013-09-28,Consumer,Standard Class,337.088
+2013-07-26,Consumer,Standard Class,256.47999999999996
+2013-11-15,Consumer,Standard Class,362.17600000000004
+2013-12-14,Consumer,Standard Class,186.304
+2013-03-04,Consumer,Standard Class,15.552000000000003
+2013-11-06,Consumer,Standard Class,43.68
+2013-02-02,Consumer,Standard Class,199.29600000000002
+2013-09-19,Consumer,Standard Class,2692.329
+2013-02-11,Consumer,Standard Class,1508.13
+2013-09-08,Consumer,Standard Class,254.96999999999997
+2013-12-01,Consumer,Standard Class,95.968
+2013-12-20,Consumer,Standard Class,732.312
+2013-12-05,Consumer,Standard Class,24.56
+2013-07-04,Consumer,Standard Class,37.44
+2013-09-30,Consumer,Standard Class,69.21600000000001
+2013-10-15,Consumer,Standard Class,15.384
+2013-05-22,Consumer,Standard Class,180.93
+2013-11-03,Consumer,Standard Class,147.34400000000002
+2013-03-15,Consumer,Standard Class,370.78200000000004
+2013-09-02,Consumer,Standard Class,1793.98
+2013-12-06,Consumer,Standard Class,42.208
+2013-09-14,Consumer,Standard Class,149.56
+2013-12-07,Consumer,Standard Class,105.52
+2013-11-14,Consumer,Standard Class,32.400000000000006
+2013-11-28,Consumer,Standard Class,14.669999999999998
+2013-04-02,Consumer,Standard Class,1220.67
+2013-11-03,Consumer,Standard Class,1395.6730000000002
+2013-05-31,Consumer,Standard Class,773.7
+2013-06-06,Consumer,Standard Class,63.381
+2014-04-06,Consumer,Standard Class,47.952000000000005
+2014-06-09,Consumer,Standard Class,175.32
+2014-08-24,Consumer,Standard Class,3747.9300000000003
+2014-09-15,Consumer,Standard Class,1918.79
+2014-02-03,Consumer,Standard Class,74.52
+2014-06-12,Consumer,Standard Class,55.98400000000001
+2014-04-21,Consumer,Standard Class,893.09
+2014-11-01,Consumer,Standard Class,301.96
+2014-12-04,Consumer,Standard Class,8.226
+2014-11-13,Consumer,Standard Class,115.296
+2014-07-02,Consumer,Standard Class,27.504000000000005
+2014-12-21,Consumer,Standard Class,78.19200000000001
+2014-10-13,Consumer,Standard Class,371.65999999999997
+2014-11-13,Consumer,Standard Class,84.96000000000001
+2014-06-26,Consumer,Standard Class,535.36
+2014-11-05,Consumer,Standard Class,387.136
+2014-09-13,Consumer,Standard Class,199.86
+2014-01-09,Consumer,Standard Class,364.07
+2014-08-11,Consumer,Standard Class,46.152
+2014-08-13,Consumer,Standard Class,5.64
+2014-03-21,Consumer,Standard Class,1270.379
+2014-04-26,Consumer,Standard Class,194.1395
+2014-12-03,Consumer,Standard Class,288.85
+2014-06-21,Consumer,Standard Class,107.97600000000001
+2014-04-11,Consumer,Standard Class,121.88799999999999
+2014-09-27,Consumer,Standard Class,2026.7800000000002
+2014-07-03,Consumer,Standard Class,365.91
+2014-10-09,Consumer,Standard Class,30.84
+2014-06-18,Consumer,Standard Class,1046.47
+2014-10-10,Consumer,Standard Class,1801.632
+2014-12-27,Consumer,Standard Class,105.42
+2014-12-07,Consumer,Standard Class,436.86
+2014-11-13,Consumer,Standard Class,233.06400000000002
+2014-09-13,Consumer,Standard Class,13.092000000000002
+2014-09-17,Consumer,Standard Class,87.168
+2014-09-20,Consumer,Standard Class,1664.132
+2014-09-04,Consumer,Standard Class,919.4899999999999
+2014-09-24,Consumer,Standard Class,517.5
+2014-03-19,Consumer,Standard Class,14.496000000000002
+2014-12-25,Consumer,Standard Class,19.584000000000003
+2014-03-16,Consumer,Standard Class,6412.7699999999995
+2014-05-07,Consumer,Standard Class,45.68
+2014-03-12,Consumer,Standard Class,5.04
+2014-01-17,Consumer,Standard Class,88.96000000000001
+2014-05-20,Consumer,Standard Class,169.54399999999998
+2014-07-09,Consumer,Standard Class,5.16
+2014-05-09,Consumer,Standard Class,48.81
+2014-11-30,Consumer,Standard Class,177.48000000000002
+2014-12-20,Consumer,Standard Class,36.269999999999996
+2014-09-21,Consumer,Standard Class,3631.96
+2014-10-28,Consumer,Standard Class,104.51
+2014-10-09,Consumer,Standard Class,50.462
+2014-11-20,Consumer,Standard Class,377.90200000000004
+2014-08-23,Consumer,Standard Class,1142.4299999999998
+2014-09-16,Consumer,Standard Class,31.12
+2014-11-22,Consumer,Standard Class,58.050000000000004
+2014-02-20,Consumer,Standard Class,29.99
+2015-07-03,Consumer,Standard Class,7.7
+2015-09-12,Consumer,Standard Class,1611.01
+2015-07-26,Consumer,Standard Class,2503.47
+2015-11-28,Consumer,Standard Class,447.7830000000001
+2015-09-03,Consumer,Standard Class,1854.2410000000002
+2015-02-16,Consumer,Standard Class,323.88
+2015-05-21,Consumer,Standard Class,2.6940000000000004
+2015-09-30,Consumer,Standard Class,298.83
+2015-09-19,Consumer,Standard Class,3.0
+2015-12-28,Consumer,Standard Class,2.61
+2015-04-13,Consumer,Standard Class,448.81
+2015-12-09,Consumer,Standard Class,334.25600000000003
+2015-05-29,Consumer,Standard Class,185.88
+2015-09-23,Consumer,Standard Class,24.066
+2015-09-05,Consumer,Standard Class,239.5
+2015-02-03,Consumer,Standard Class,866.4
+2015-08-16,Consumer,Standard Class,705.544
+2015-11-14,Consumer,Standard Class,52.136
+2015-09-05,Consumer,Standard Class,291.73999999999995
+2015-11-26,Consumer,Standard Class,73.36
+2015-09-07,Consumer,Standard Class,99.15599999999999
+2015-01-14,Consumer,Standard Class,405.34400000000005
+2015-09-18,Consumer,Standard Class,396.0
+2015-10-09,Consumer,Standard Class,387.72
+2015-12-02,Consumer,Standard Class,4.704
+2015-11-11,Consumer,Standard Class,41.86
+2015-04-19,Consumer,Standard Class,233.48
+2015-10-29,Consumer,Standard Class,38.19000000000001
+2015-09-20,Consumer,Standard Class,254.99
+2015-07-22,Consumer,Standard Class,370.184
+2015-09-19,Consumer,Standard Class,1264.14
+2015-12-15,Consumer,Standard Class,133.38
+2015-02-14,Consumer,Standard Class,264.18
+2015-12-26,Consumer,Standard Class,870.04
+2015-04-09,Consumer,Standard Class,17.92
+2015-05-03,Consumer,Standard Class,187.056
+2015-09-09,Consumer,Standard Class,99.87200000000001
+2015-10-15,Consumer,Standard Class,305.248
+2015-05-30,Consumer,Standard Class,60.485
+2015-05-20,Consumer,Standard Class,641.96
+2015-07-15,Consumer,Standard Class,88.15
+2015-12-10,Consumer,Standard Class,40.68
+2015-06-27,Consumer,Standard Class,135.95
+2015-12-31,Consumer,Standard Class,72.224
+2015-08-27,Consumer,Standard Class,186.54
+2015-07-20,Consumer,Standard Class,1110.5
+2015-07-30,Consumer,Standard Class,732.156
+2015-04-17,Consumer,Standard Class,158.256
+2015-02-20,Consumer,Standard Class,16.496000000000002
+2015-12-21,Consumer,Standard Class,66.30000000000001
+2015-03-09,Consumer,Standard Class,1466.32
+2016-06-04,Consumer,Standard Class,12.48
+2016-11-03,Consumer,Standard Class,1030.7420000000002
+2016-11-17,Consumer,Standard Class,699.4000000000001
+2016-11-19,Consumer,Standard Class,843.8399999999999
+2016-05-01,Consumer,Standard Class,3740.51
+2016-11-04,Consumer,Standard Class,248.396
+2016-09-05,Consumer,Standard Class,177.07999999999998
+2016-11-20,Consumer,Standard Class,209.56799999999998
+2016-07-21,Consumer,Standard Class,951.98
+2016-08-12,Consumer,Standard Class,20.736000000000004
+2016-11-29,Consumer,Standard Class,491.88800000000003
+2016-11-15,Consumer,Standard Class,559.2
+2016-12-04,Consumer,Standard Class,649.0
+2016-11-19,Consumer,Standard Class,25.060000000000002
+2016-04-15,Consumer,Standard Class,15.552000000000003
+2016-08-25,Consumer,Standard Class,192.16000000000003
+2016-12-17,Consumer,Standard Class,504.90000000000003
+2016-09-25,Consumer,Standard Class,177.54999999999998
+2016-10-23,Consumer,Standard Class,863.8799999999999
+2016-08-31,Consumer,Standard Class,659.9
+2016-09-29,Consumer,Standard Class,243.92
+2016-11-23,Consumer,Standard Class,105.40800000000002
+2016-11-30,Consumer,Standard Class,173.79999999999998
+2016-01-25,Consumer,Standard Class,5.67
+2016-04-28,Consumer,Standard Class,28.08
+2016-03-03,Consumer,Standard Class,72.8
+2016-06-13,Consumer,Standard Class,181.86
+2016-09-21,Consumer,Standard Class,80.48
+2016-12-24,Consumer,Standard Class,712.85
+2016-11-25,Consumer,Standard Class,723.92
+2016-02-04,Consumer,Standard Class,119.17800000000001
+2016-06-15,Consumer,Standard Class,776.0800000000002
+2016-01-15,Consumer,Standard Class,175.086
+2016-08-13,Consumer,Standard Class,2382.9260000000004
+2016-05-04,Consumer,Standard Class,629.86
+2016-12-17,Consumer,Standard Class,544.38
+2016-04-11,Consumer,Standard Class,22.744
+2016-11-27,Consumer,Standard Class,52.344
+2016-08-27,Consumer,Standard Class,5.184000000000001
+2016-05-14,Consumer,Standard Class,48.69
+2016-06-11,Consumer,Standard Class,4.572000000000001
+2016-12-07,Consumer,Standard Class,372.64
+2016-04-28,Consumer,Standard Class,751.984
+2016-05-19,Consumer,Standard Class,2361.52
+2016-09-13,Consumer,Standard Class,15.920000000000002
+2016-07-17,Consumer,Standard Class,7.904000000000001
+2016-12-23,Consumer,Standard Class,303.32000000000005
+2016-06-03,Consumer,Standard Class,1111.698
+2016-11-30,Consumer,Standard Class,2165.658
+2016-06-12,Consumer,Standard Class,17.088
+2016-10-24,Consumer,Standard Class,11.68
+2016-04-02,Consumer,Standard Class,14.940000000000001
+2016-09-15,Consumer,Standard Class,163.96
+2016-09-03,Consumer,Standard Class,24.448
+2016-04-22,Consumer,Standard Class,675.0600000000001
+2016-09-02,Consumer,Standard Class,1577.94
+2016-09-09,Consumer,Standard Class,458.98400000000004
+2016-01-31,Consumer,Standard Class,419.13599999999997
+2016-10-03,Consumer,Standard Class,33.47200000000001
+2016-12-22,Consumer,Standard Class,1090.348
+2016-03-12,Consumer,Standard Class,40.410000000000004
+2016-05-26,Consumer,Standard Class,23.08
+2016-11-12,Consumer,Standard Class,26.720000000000002
+2016-10-16,Consumer,Standard Class,124.75
+2016-10-20,Consumer,Standard Class,199.17000000000002
+2016-09-10,Consumer,Standard Class,2.78
+2016-09-22,Consumer,Standard Class,30.900000000000002
+2016-10-26,Consumer,Standard Class,608.4300000000001
+2016-11-17,Consumer,Standard Class,35.04
+2016-12-02,Consumer,Standard Class,32.776
+2016-11-18,Consumer,Standard Class,47.328
+2016-11-02,Consumer,Standard Class,5.56
+2013-09-09,Consumer,Standard Class,1299.99
+2013-09-17,Consumer,Standard Class,52.608000000000004
+2013-01-20,Consumer,Standard Class,1859.4
+2013-12-19,Consumer,Standard Class,252.61200000000002
+2013-03-21,Consumer,Standard Class,310.528
+2013-08-19,Consumer,Standard Class,638.82
+2013-03-22,Consumer,Standard Class,59.109000000000016
+2013-06-01,Consumer,Standard Class,904.13
+2013-09-30,Consumer,Standard Class,15.552000000000003
+2014-10-11,Consumer,Standard Class,979.9455
+2014-12-11,Consumer,Standard Class,12.828000000000001
+2014-06-11,Consumer,Standard Class,207.82
+2014-07-27,Consumer,Standard Class,29.97
+2014-04-26,Consumer,Standard Class,1001.7600000000001
+2014-02-28,Consumer,Standard Class,551.264
+2014-11-25,Consumer,Standard Class,13.120000000000001
+2014-12-10,Consumer,Standard Class,129.64
+2014-11-27,Consumer,Standard Class,459.43350000000004
+2015-09-06,Consumer,Standard Class,1678.0
+2015-12-12,Consumer,Standard Class,6.671999999999999
+2015-01-22,Consumer,Standard Class,530.2719999999999
+2015-01-08,Consumer,Standard Class,187.228
+2015-05-06,Consumer,Standard Class,16.72
+2015-04-17,Consumer,Standard Class,12.84
+2015-12-13,Consumer,Standard Class,299.07
+2016-11-13,Consumer,Standard Class,239.92
+2016-01-27,Consumer,Standard Class,3002.65
+2016-09-04,Consumer,Standard Class,107.55200000000002
+2016-07-03,Consumer,Standard Class,311.96
+2016-02-26,Consumer,Standard Class,428.704
+2016-06-20,Consumer,Standard Class,536.36
+2016-12-07,Consumer,Standard Class,82.38
+2016-06-09,Consumer,Standard Class,49.12
+2016-09-21,Consumer,Standard Class,12.294
+2016-12-03,Consumer,Standard Class,98.446
+2016-07-16,Consumer,Standard Class,242.35200000000003
+2016-09-11,Consumer,Standard Class,67.9
+2016-01-01,Consumer,Standard Class,71.096
+2016-07-03,Consumer,Standard Class,24.0
+2016-01-08,Consumer,Standard Class,2.8080000000000007
+2013-10-21,Corporate,Standard Class,788.86
+2013-03-31,Corporate,Standard Class,1.8690000000000004
+2013-11-21,Corporate,Standard Class,865.5
+2013-11-01,Corporate,Standard Class,1044.4399999999998
+2013-12-02,Corporate,Standard Class,21.19
+2013-05-14,Corporate,Standard Class,310.88000000000005
+2013-04-29,Corporate,Standard Class,661.5040000000001
+2013-08-17,Corporate,Standard Class,484.78999999999996
+2013-12-16,Corporate,Standard Class,1.1670000000000003
+2013-10-11,Corporate,Standard Class,16.23
+2013-08-20,Corporate,Standard Class,1417.35
+2013-10-18,Corporate,Standard Class,605.34
+2013-08-01,Corporate,Standard Class,202.89600000000002
+2013-05-21,Corporate,Standard Class,3333.9000000000005
+2013-09-28,Corporate,Standard Class,106.944
+2013-04-07,Corporate,Standard Class,752.92
+2013-11-22,Corporate,Standard Class,1022.61
+2013-04-21,Corporate,Standard Class,828.8399999999999
+2013-10-09,Corporate,Standard Class,88.768
+2013-09-12,Corporate,Standard Class,192.424
+2013-05-30,Corporate,Standard Class,13.620000000000001
+2013-11-30,Corporate,Standard Class,6.642000000000001
+2013-01-10,Corporate,Standard Class,54.83
+2013-04-04,Corporate,Standard Class,364.92999999999995
+2013-09-20,Corporate,Standard Class,2.8160000000000003
+2013-10-22,Corporate,Standard Class,129.92
+2013-11-01,Corporate,Standard Class,75.16
+2013-07-05,Corporate,Standard Class,4.368
+2013-12-27,Corporate,Standard Class,521.92
+2013-04-16,Corporate,Standard Class,39.072
+2013-04-02,Corporate,Standard Class,177.68
+2013-07-01,Corporate,Standard Class,581.1039999999999
+2013-03-21,Corporate,Standard Class,3769.5600000000004
+2013-08-09,Corporate,Standard Class,193.936
+2014-03-26,Corporate,Standard Class,74.352
+2014-12-27,Corporate,Standard Class,284.44000000000005
+2014-01-04,Corporate,Standard Class,192.22
+2014-06-13,Corporate,Standard Class,976.29
+2014-11-07,Corporate,Standard Class,1361.631
+2014-06-23,Corporate,Standard Class,268.4
+2014-11-08,Corporate,Standard Class,81.135
+2014-11-12,Corporate,Standard Class,792.508
+2014-09-25,Corporate,Standard Class,22.549000000000003
+2014-03-22,Corporate,Standard Class,19.56
+2014-08-21,Corporate,Standard Class,53.28
+2014-12-14,Corporate,Standard Class,62.459999999999994
+2014-03-12,Corporate,Standard Class,45.976000000000006
+2014-11-05,Corporate,Standard Class,207.0
+2014-03-31,Corporate,Standard Class,79.96
+2014-06-13,Corporate,Standard Class,6.48
+2014-06-18,Corporate,Standard Class,13.632
+2014-09-19,Corporate,Standard Class,66.36
+2014-02-07,Corporate,Standard Class,324.10999999999996
+2014-04-20,Corporate,Standard Class,896.31
+2014-09-03,Corporate,Standard Class,200.98400000000004
+2014-12-15,Corporate,Standard Class,246.168
+2014-09-08,Corporate,Standard Class,21.36
+2014-12-18,Corporate,Standard Class,94.68800000000002
+2014-07-25,Corporate,Standard Class,457.03999999999996
+2014-05-23,Corporate,Standard Class,186.69
+2014-08-09,Corporate,Standard Class,4.608
+2014-09-06,Corporate,Standard Class,7.240000000000001
+2014-05-01,Corporate,Standard Class,277.632
+2014-06-08,Corporate,Standard Class,937.6080000000001
+2014-07-31,Corporate,Standard Class,239.70000000000002
+2014-11-26,Corporate,Standard Class,692.472
+2014-09-06,Corporate,Standard Class,46.62
+2015-01-17,Corporate,Standard Class,316.0
+2015-09-23,Corporate,Standard Class,104.712
+2015-05-13,Corporate,Standard Class,10.96
+2015-09-11,Corporate,Standard Class,519.68
+2015-05-31,Corporate,Standard Class,4317.3
+2015-11-21,Corporate,Standard Class,574.056
+2015-07-08,Corporate,Standard Class,45.584
+2015-03-13,Corporate,Standard Class,12.96
+2015-08-28,Corporate,Standard Class,9.216
+2015-08-13,Corporate,Standard Class,562.2925000000001
+2015-03-20,Corporate,Standard Class,31.086000000000006
+2015-03-28,Corporate,Standard Class,92.69999999999999
+2015-11-29,Corporate,Standard Class,7.434000000000001
+2015-09-13,Corporate,Standard Class,1159.06
+2015-04-13,Corporate,Standard Class,191.808
+2015-02-06,Corporate,Standard Class,132.22400000000002
+2015-04-24,Corporate,Standard Class,36.24000000000001
+2015-09-21,Corporate,Standard Class,115.47999999999999
+2015-05-29,Corporate,Standard Class,452.464
+2015-12-30,Corporate,Standard Class,40.896
+2015-09-19,Corporate,Standard Class,383.438
+2015-10-16,Corporate,Standard Class,342.76
+2015-10-05,Corporate,Standard Class,64.24799999999999
+2015-07-19,Corporate,Standard Class,140.81
+2015-07-24,Corporate,Standard Class,324.38700000000006
+2015-11-05,Corporate,Standard Class,50.496
+2015-05-31,Corporate,Standard Class,138.53
+2016-05-13,Corporate,Standard Class,20.768
+2016-06-10,Corporate,Standard Class,1347.5200000000002
+2016-04-30,Corporate,Standard Class,26.056000000000004
+2016-10-27,Corporate,Standard Class,68.967
+2016-06-15,Corporate,Standard Class,2942.784
+2016-06-30,Corporate,Standard Class,19.52
+2016-11-03,Corporate,Standard Class,12.39
+2016-06-03,Corporate,Standard Class,35.168000000000006
+2016-05-19,Corporate,Standard Class,26.16
+2016-09-07,Corporate,Standard Class,81.568
+2016-06-16,Corporate,Standard Class,14.015999999999998
+2016-09-19,Corporate,Standard Class,95.616
+2016-06-05,Corporate,Standard Class,20.736000000000004
+2016-12-14,Corporate,Standard Class,204.55
+2016-09-09,Corporate,Standard Class,685.26
+2016-06-26,Corporate,Standard Class,287.42400000000004
+2016-05-27,Corporate,Standard Class,39.251999999999995
+2016-11-06,Corporate,Standard Class,5.78
+2016-03-10,Corporate,Standard Class,61.876000000000005
+2016-03-21,Corporate,Standard Class,64.384
+2016-04-08,Corporate,Standard Class,2747.2500000000005
+2016-06-04,Corporate,Standard Class,103.968
+2016-10-16,Corporate,Standard Class,1893.786
+2016-09-28,Corporate,Standard Class,10.368000000000002
+2016-05-05,Corporate,Standard Class,34.5
+2016-11-03,Corporate,Standard Class,361.37600000000003
+2016-04-06,Corporate,Standard Class,8.100000000000001
+2016-11-17,Corporate,Standard Class,286.09
+2016-09-18,Corporate,Standard Class,997.83
+2016-12-02,Corporate,Standard Class,47.96
+2016-11-26,Corporate,Standard Class,12.84
+2016-04-24,Corporate,Standard Class,113.56800000000001
+2016-12-11,Corporate,Standard Class,873.811
+2016-07-10,Corporate,Standard Class,41.910000000000004
+2013-03-21,Corporate,Standard Class,16.272000000000002
+2013-06-08,Corporate,Standard Class,170.35200000000003
+2013-04-08,Corporate,Standard Class,1215.92
+2013-08-19,Corporate,Standard Class,344.90999999999997
+2013-01-20,Corporate,Standard Class,67.194
+2013-09-13,Corporate,Standard Class,18.648000000000003
+2013-04-05,Corporate,Standard Class,115.36
+2013-03-17,Corporate,Standard Class,103.50000000000001
+2014-03-24,Corporate,Standard Class,6.992000000000001
+2014-04-05,Corporate,Standard Class,157.79400000000004
+2014-12-01,Corporate,Standard Class,125.64
+2014-07-05,Corporate,Standard Class,16.712000000000003
+2015-08-06,Corporate,Standard Class,197.04999999999998
+2015-10-29,Corporate,Standard Class,17.616000000000003
+2015-05-15,Corporate,Standard Class,191.018
+2015-10-11,Corporate,Standard Class,24.703000000000003
+2015-05-18,Corporate,Standard Class,29.97000000000001
+2015-04-18,Corporate,Standard Class,79.12
+2015-01-04,Corporate,Standard Class,959.9680000000001
+2016-10-20,Corporate,Standard Class,30.336000000000006
+2016-04-14,Corporate,Standard Class,198.27200000000002
+2016-11-24,Corporate,Standard Class,76.52100000000002
+2016-12-10,Corporate,Standard Class,14.76
+2016-03-28,Corporate,Standard Class,68.74200000000002
+2013-03-14,Home Office,Standard Class,91.056
+2013-10-24,Home Office,Standard Class,10.368000000000002
+2013-11-02,Home Office,Standard Class,799.9200000000001
+2013-11-24,Home Office,Standard Class,111.15
+2013-11-05,Home Office,Standard Class,47.79
+2013-12-21,Home Office,Standard Class,18.240000000000002
+2013-03-18,Home Office,Standard Class,23661.228
+2013-10-27,Home Office,Standard Class,22.320000000000004
+2013-08-12,Home Office,Standard Class,457.744
+2013-01-06,Home Office,Standard Class,4374.88
+2014-09-22,Home Office,Standard Class,763.508
+2014-07-24,Home Office,Standard Class,525.95
+2014-06-28,Home Office,Standard Class,260.31
+2014-06-09,Home Office,Standard Class,113.10000000000001
+2014-10-05,Home Office,Standard Class,75.04
+2014-10-02,Home Office,Standard Class,7.380000000000001
+2014-01-24,Home Office,Standard Class,13.120000000000001
+2014-09-05,Home Office,Standard Class,67.96
+2014-12-20,Home Office,Standard Class,11.696
+2014-11-15,Home Office,Standard Class,39.96
+2014-11-27,Home Office,Standard Class,6.24
+2014-05-30,Home Office,Standard Class,151.96
+2015-12-16,Home Office,Standard Class,19.44
+2015-05-06,Home Office,Standard Class,270.728
+2015-10-21,Home Office,Standard Class,61.1
+2015-08-05,Home Office,Standard Class,158.81
+2015-08-10,Home Office,Standard Class,16.218000000000004
+2015-10-25,Home Office,Standard Class,239.976
+2015-08-22,Home Office,Standard Class,37.264
+2015-11-25,Home Office,Standard Class,392.8320000000001
+2015-11-12,Home Office,Standard Class,681.4320000000001
+2015-04-09,Home Office,Standard Class,215.83999999999997
+2015-10-22,Home Office,Standard Class,74.32000000000001
+2015-05-26,Home Office,Standard Class,1311.9699999999998
+2015-03-16,Home Office,Standard Class,365.44
+2015-03-12,Home Office,Standard Class,558.24
+2015-12-21,Home Office,Standard Class,34.34
+2015-05-24,Home Office,Standard Class,4.98
+2015-09-15,Home Office,Standard Class,25.92
+2015-11-02,Home Office,Standard Class,273.59000000000003
+2015-01-31,Home Office,Standard Class,1396.35
+2015-11-26,Home Office,Standard Class,5.08
+2015-08-09,Home Office,Standard Class,23.34
+2016-12-22,Home Office,Standard Class,141.96
+2016-06-11,Home Office,Standard Class,3.76
+2016-05-01,Home Office,Standard Class,48.9
+2016-10-21,Home Office,Standard Class,729.6480000000001
+2016-09-05,Home Office,Standard Class,147.184
+2016-04-30,Home Office,Standard Class,32.088
+2016-09-11,Home Office,Standard Class,184.66
+2016-07-31,Home Office,Standard Class,41.42400000000001
+2016-12-28,Home Office,Standard Class,64.784
+2016-08-26,Home Office,Standard Class,71.98
+2016-09-26,Home Office,Standard Class,419.13599999999997
+2016-03-30,Home Office,Standard Class,59.76
+2016-09-24,Home Office,Standard Class,399.53000000000003
+2016-09-19,Home Office,Standard Class,35.4
+2016-11-24,Home Office,Standard Class,1446.8400000000001
+2016-10-21,Home Office,Standard Class,17.856
+2016-10-07,Home Office,Standard Class,1027.21
+2016-06-12,Home Office,Standard Class,544.1399999999999
+2016-01-07,Home Office,Standard Class,33.74
+2016-08-17,Home Office,Standard Class,201.09
+2016-11-20,Home Office,Standard Class,27.58
+2016-12-02,Home Office,Standard Class,45.66000000000001
+2016-11-04,Home Office,Standard Class,4.3
+2016-11-09,Home Office,Standard Class,691.144
+2016-01-22,Home Office,Standard Class,383.99199999999996
+2016-05-25,Home Office,Standard Class,29.84
+2016-03-26,Home Office,Standard Class,57.01
+2016-04-07,Home Office,Standard Class,235.44000000000003
+2013-03-14,Home Office,Standard Class,1139.92
+2013-09-10,Home Office,Standard Class,9.64
+2013-01-26,Home Office,Standard Class,944.61
+2013-10-03,Home Office,Standard Class,67.75999999999999
+2015-03-14,Home Office,Standard Class,334.2
+2015-09-27,Home Office,Standard Class,431.97600000000006
+2015-04-16,Home Office,Standard Class,895.06
+2015-02-21,Home Office,Standard Class,471.07800000000003
+2015-05-16,Home Office,Standard Class,612.14
+2015-09-23,Home Office,Standard Class,13.28
+2016-04-07,Home Office,Standard Class,1735.8505000000002
+2016-04-30,Home Office,Standard Class,225.54600000000002
+2016-08-20,Home Office,Standard Class,35.96
+2016-10-19,Home Office,Standard Class,1633.1880000000003
+2016-03-17,Home Office,Standard Class,4.608
+2016-04-23,Home Office,Standard Class,513.4960000000001
+2016-05-27,Home Office,Standard Class,598.3100000000001
+2016-09-24,Home Office,Standard Class,148.16000000000003
+2016-11-04,Home Office,Standard Class,9.664000000000001
