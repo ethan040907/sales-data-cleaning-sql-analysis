@@ -71,12 +71,12 @@ The dashboard serves as a visual summary of the core business questions, allowin
 
 
 ## Dashboard Preview 
-![Dashboard](data_analayst_project/powerbi/dashboard_screenshot.png)
+![Dashboard](powerbi/dashboard_screenshot.png)
 
 
 ## Dashboard Demo
 
-![Dashboard Demo](data_analayst_project/powerbi/demo.gif)
+![Dashboard Demo](powerbi/demo.gif)
 
 
 ### Dashboard Features
